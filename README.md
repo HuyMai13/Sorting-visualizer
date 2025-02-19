@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-
+<!--
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -50,11 +49,10 @@ export default tseslint.config({
     },
 });
 ```
+-->
 
 =======
 
 # Sorting-visualizer
 
 A sorting demo that visualize various sorting algorithm step by step
-
-> > > > > > > a0bfb54a69dd6a6996fe44dba8f0aa7de666c3f9
